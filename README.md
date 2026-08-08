@@ -148,8 +148,6 @@ A web dashboard + local companion app built for the multi-agent / vibe-coding de
 
 </details>
 
-> 💬 Metrics like scale, performance, and security posture are left as placeholders above (`🔧`) rather than invented — send me real numbers for any shipped project and I'll fill them in properly.
-
 ---
 
 ## 💼 Experience
