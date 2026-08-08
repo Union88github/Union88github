@@ -226,8 +226,6 @@ Open To:
 <img src="https://raw.githubusercontent.com/Union88github/Union88github/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
-> 🔧 *This renders once the snake-generation GitHub Action is set up on a `Union88github/Union88github` repo — I can walk you through that workflow file if you want it live.*
-
 ---
 
 ## 🔗 Connect
